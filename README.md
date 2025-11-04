@@ -14,13 +14,15 @@
 
 ## 📫 How to reach me:
 ✉️ **Email:** [milenbogd@gmail.com](mailto:milenbogd@gmail.com)  
-🔗 **GitHub:** [MilenBogdanov](https://github.com/MilenBogdanov)
+🔗 **GitHub:** [MilenBogdanov](https://github.com/MilenBogdanov)  
+💼 **LinkedIn:** [Milen Bogdanov](https://www.linkedin.com/in/milen-bogdanov-499179370/)
 
 ---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/16NRTa61As/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/milenb_)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/16NRTa61As/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/milenb_)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/milen-bogdanov-499179370/)
 
 ---
 
