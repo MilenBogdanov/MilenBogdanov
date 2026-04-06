@@ -62,14 +62,28 @@ class AboutMe:
 
 ## Contact
 
-- Email: [milenbogd@gmail.com](mailto:milenbogd@gmail.com)
-- LinkedIn: [milen-bogdanov](https://www.linkedin.com/in/milen-bogdanov-499179370/)
-- GitHub: [MilenBogdanov](https://github.com/MilenBogdanov)
+<p align="left">
+  <a href="mailto:milenbogd@gmail.com">
+    <img src="https://img.icons8.com/color/24/gmail--v1.png"/> Email
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/milen-bogdanov-499179370/">
+    <img src="https://img.icons8.com/color/24/linkedin.png"/> LinkedIn
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MilenBogdanov">
+    <img src="https://img.icons8.com/color/24/github--v1.png"/> GitHub
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/share/16NRTa61As/">
+    <img src="https://img.icons8.com/color/24/facebook-new.png"/> Facebook
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/milenb_/">
+    <img src="https://img.icons8.com/color/24/instagram-new.png"/> Instagram
+  </a>
+</p>
 
 ---
 
-## Socials
-
-[Facebook](https://www.facebook.com/share/16NRTa61As/) ·
-[Instagram](https://www.instagram.com/milenb_) ·
-[LinkedIn](https://www.linkedin.com/in/milen-bogdanov-499179370/)
+> "Automate what is repetitive, so you can focus on what is meaningful."
